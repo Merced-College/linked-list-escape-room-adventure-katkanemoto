@@ -1,3 +1,4 @@
+package game;
 //Kanemoto
 //3/31/26
 //main
